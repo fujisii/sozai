@@ -6,3 +6,10 @@ body {
   width: 100%;
   height: 100%;
 }
+
+/* #: ハッシュマークまたはナンバー記号。読み方は音楽記号のシャープではありません*/
+#container {
+  width: 900px;
+  height: 600px;
+  background-color: blue;
+}
